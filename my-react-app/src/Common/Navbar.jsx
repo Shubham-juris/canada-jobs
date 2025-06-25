@@ -29,7 +29,7 @@ const Navbar = () => {
 
         {/* Center Links */}
         <ul className="flex flex-wrap gap-6 font-medium text-gray-700">
-          <li><a href="#" className="hover:text-red-600">Jobs</a></li>
+          <li><a href="Homecontainer" className="hover:text-red-600">Jobs</a></li>
           <li><a href="#" className="hover:text-red-600">Companies</a></li>
           <li><a href="#" className="hover:text-red-600">Pricing</a></li>
           <li><a href="#" className="hover:text-red-600">Salary Insights</a></li>
